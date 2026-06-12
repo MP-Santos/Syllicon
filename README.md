@@ -11,4 +11,6 @@
 ![thumbnail_FrmCadPessoas-(Detalhes)](https://github.com/user-attachments/assets/5199fbae-66f3-4856-bda7-0a5b080cacda)
 
 ![thumbnail_FrmVendas](https://github.com/user-attachments/assets/2bc433e5-9d52-4887-b3e7-195f62a3005f)
+
+doc/Leia-me.pdf
 </p></h1>
